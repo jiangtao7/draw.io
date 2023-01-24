@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T16:23:26.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MAR_XcYhv7NF_NjD20DM" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T16:24:27.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="puRXf6vP4sRN6yccR8s5" version="20.8.10" type="github">
   <diagram id="oAuHuwjXM5DOT20ScF70" name="Page-1">
     <mxGraphModel dx="1915" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -237,6 +237,12 @@
         </mxCell>
         <mxCell id="sp-5pNt451_1ZDjbyw_R-42" value="Zordon Resources" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="1362" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-44" value="User Operation Area" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="175" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-45" value="Service Running Area" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="175" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
