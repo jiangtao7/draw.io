@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T16:26:37.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZxvZzevI6mXO4C-5uJu0" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T16:30:42.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4zZDbrAeIp4DMQFyC-18" version="20.8.10" type="github">
   <diagram id="oAuHuwjXM5DOT20ScF70" name="Page-1">
     <mxGraphModel dx="1915" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -268,6 +268,34 @@
         </mxCell>
         <mxCell id="sp-5pNt451_1ZDjbyw_R-45" value="Service Running Area" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="175" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0a0a0a;startArrow=none;startFill=0;" edge="1" parent="1" source="sp-5pNt451_1ZDjbyw_R-52" target="sp-5pNt451_1ZDjbyw_R-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-59" value="policy change" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sp-5pNt451_1ZDjbyw_R-55">
+          <mxGeometry x="-0.1615" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-52" value="Tools" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="164" y="39" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0a0a0a;startArrow=none;startFill=0;" edge="1" parent="1" source="sp-5pNt451_1ZDjbyw_R-53" target="1Di5xU04i7RZSqZTIgAf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-58" value="Attach &amp;amp; Manage AWS resources abac policy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sp-5pNt451_1ZDjbyw_R-57">
+          <mxGeometry x="-0.0707" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-53" value="Argo scheduled job" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Elastic_Job_Agents.svg;" vertex="1" parent="1">
+          <mxGeometry x="778" y="37" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0a0a0a;startArrow=none;startFill=0;" edge="1" parent="1" source="sp-5pNt451_1ZDjbyw_R-54" target="sp-5pNt451_1ZDjbyw_R-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="44" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
