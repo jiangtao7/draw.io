@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T16:24:54.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XMvF3Z7YOeLNRn1CiTss" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T16:26:21.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="YM0TeiTnRBhnXjUBnWQ8" version="20.8.10" type="github">
   <diagram id="oAuHuwjXM5DOT20ScF70" name="Page-1">
     <mxGraphModel dx="1915" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,8 +146,13 @@
         <mxCell id="1Di5xU04i7RZSqZTIgAf-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;" parent="1" source="1Di5xU04i7RZSqZTIgAf-11" target="1Di5xU04i7RZSqZTIgAf-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-51" value="only ecs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Di5xU04i7RZSqZTIgAf-17">
+          <mxGeometry x="-0.0125" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1Di5xU04i7RZSqZTIgAf-11" value="ECS abac policy" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" parent="1" vertex="1">
-          <mxGeometry x="1511" y="160" width="62" height="78" as="geometry" />
+          <mxGeometry x="1410" y="342" width="62" height="78" as="geometry" />
         </mxCell>
         <mxCell id="1Di5xU04i7RZSqZTIgAf-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;" parent="1" source="1Di5xU04i7RZSqZTIgAf-12" target="1Di5xU04i7RZSqZTIgAf-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -161,20 +166,35 @@
         <mxCell id="1Di5xU04i7RZSqZTIgAf-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;" parent="1" source="1Di5xU04i7RZSqZTIgAf-13" target="1Di5xU04i7RZSqZTIgAf-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-47" value="???" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Di5xU04i7RZSqZTIgAf-19">
+          <mxGeometry x="-0.0597" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1Di5xU04i7RZSqZTIgAf-13" value="S3 abac policy" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" parent="1" vertex="1">
-          <mxGeometry x="1391" y="351" width="62" height="78" as="geometry" />
+          <mxGeometry x="1482" y="190" width="62" height="78" as="geometry" />
         </mxCell>
         <mxCell id="1Di5xU04i7RZSqZTIgAf-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;" parent="1" source="1Di5xU04i7RZSqZTIgAf-14" target="1Di5xU04i7RZSqZTIgAf-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-49" value="??? care" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Di5xU04i7RZSqZTIgAf-16">
+          <mxGeometry x="-0.1564" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1Di5xU04i7RZSqZTIgAf-14" value="RDS abac policy" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" parent="1" vertex="1">
-          <mxGeometry x="1391" y="110" width="62" height="78" as="geometry" />
+          <mxGeometry x="1362" y="50" width="62" height="78" as="geometry" />
         </mxCell>
         <mxCell id="1Di5xU04i7RZSqZTIgAf-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;" parent="1" source="1Di5xU04i7RZSqZTIgAf-15" target="1Di5xU04i7RZSqZTIgAf-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-48" value="??? care" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Di5xU04i7RZSqZTIgAf-18">
+          <mxGeometry x="0.0752" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1Di5xU04i7RZSqZTIgAf-15" value="EC2 abac policy" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" parent="1" vertex="1">
-          <mxGeometry x="1511" y="282" width="62" height="78" as="geometry" />
+          <mxGeometry x="1500" y="70" width="62" height="78" as="geometry" />
         </mxCell>
         <mxCell id="1Di5xU04i7RZSqZTIgAf-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FF0000;" parent="1" source="1Di5xU04i7RZSqZTIgAf-24" target="0ugB0ae400mzICG-W8F5-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -196,6 +216,11 @@
         </mxCell>
         <mxCell id="sp-5pNt451_1ZDjbyw_R-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;startArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="sp-5pNt451_1ZDjbyw_R-22" target="1Di5xU04i7RZSqZTIgAf-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sp-5pNt451_1ZDjbyw_R-50" value="??? care" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sp-5pNt451_1ZDjbyw_R-25">
+          <mxGeometry x="-0.1079" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sp-5pNt451_1ZDjbyw_R-22" value="? abac policy" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" vertex="1" parent="1">
           <mxGeometry x="1240" y="32" width="62" height="78" as="geometry" />
