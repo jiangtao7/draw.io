@@ -1,23 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T18:21:20.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Nyjg59BWrritIM_bqNMG" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T18:22:01.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mR-jLxbyXQzdJTbQuFwM" version="20.8.20" type="github">
   <diagram name="Page-1" id="UDq8F3k9JjVcfoBoUdrw">
     <mxGraphModel dx="1234" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wfuacGObjQt9gQqZAv1i-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfuacGObjQt9gQqZAv1i-2" target="wfuacGObjQt9gQqZAv1i-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="350" />
+              <mxPoint x="90" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wfuacGObjQt9gQqZAv1i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfuacGObjQt9gQqZAv1i-2" target="wfuacGObjQt9gQqZAv1i-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="350" />
+              <mxPoint x="270" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wfuacGObjQt9gQqZAv1i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfuacGObjQt9gQqZAv1i-2" target="wfuacGObjQt9gQqZAv1i-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="350" />
+              <mxPoint x="550" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wfuacGObjQt9gQqZAv1i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfuacGObjQt9gQqZAv1i-2" target="wfuacGObjQt9gQqZAv1i-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="350" />
+              <mxPoint x="740" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wfuacGObjQt9gQqZAv1i-2" value="Legacy EKS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wfuacGObjQt9gQqZAv1i-3" value="cluster provision" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="580" width="80" height="80" as="geometry" />
