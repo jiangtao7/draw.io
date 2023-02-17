@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T18:15:18.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.20" etag="BLJDnWlMQrgIenOi7Ku_" type="github"><diagram name="Page-1" id="UDq8F3k9JjVcfoBoUdrw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-17T18:19:30.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="a_2EUr53w_mjmqpWhC01" version="20.8.20" type="github">
+  <diagram name="Page-1" id="UDq8F3k9JjVcfoBoUdrw">
+    <mxGraphModel dx="1234" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wfuacGObjQt9gQqZAv1i-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfuacGObjQt9gQqZAv1i-2" target="wfuacGObjQt9gQqZAv1i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfuacGObjQt9gQqZAv1i-2" target="wfuacGObjQt9gQqZAv1i-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfuacGObjQt9gQqZAv1i-2" target="wfuacGObjQt9gQqZAv1i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfuacGObjQt9gQqZAv1i-2" target="wfuacGObjQt9gQqZAv1i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-2" value="Legacy EKS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-3" value="cluster provision" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-4" value="cluster management" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-5" value="monitoring&lt;br&gt;/logging" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-6" value="Kong, Vault, Gitlab, VM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-11" value="Diego, Orionk &amp;amp; Tony" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="700" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-12" value="Diego, Orionk &amp;amp; Tony" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="710" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-13" value="Edress, Dan &amp;amp; Tony" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="700" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-14" value="Edress, Dan &amp;amp; Tony" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="725" y="710" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-15" value="Infra Services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfuacGObjQt9gQqZAv1i-16" value="EKS management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="450" width="360" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
