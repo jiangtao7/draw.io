@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T15:37:30.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rbY60NyTEpuvbrkWOFe8" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T15:43:13.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bJMd8Tpoz6yss0_-Ym2Q" version="20.8.20" type="github">
   <diagram name="Page-1" id="iKSSGSfsI78JwVMg9x92">
     <mxGraphModel dx="2084" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,14 +125,11 @@
         <mxCell id="REabcQUZrqvfgA8ZS0G6-46" value="EKS monitoring" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="REabcQUZrqvfgA8ZS0G6-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/game-of-thrones-4/64/game_of_thrones_game_thrones_series_element_fire_flame_heat-128.png" vertex="1" parent="1">
-          <mxGeometry x="320" y="251" width="39" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="REabcQUZrqvfgA8ZS0G6-52" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;? Single failure.&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;? Backup/restore.&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;? Always available.&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;???&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="200" width="160" height="100" as="geometry" />
+        <mxCell id="REabcQUZrqvfgA8ZS0G6-52" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;? Single failure.&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;? Backup/restore.&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;? Always available.&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;? Git repo works&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;???&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="195" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="REabcQUZrqvfgA8ZS0G6-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-outline-vol-2/512/warning-outline-128.png" vertex="1" parent="1">
-          <mxGeometry x="-83" y="180" width="38" height="38" as="geometry" />
+          <mxGeometry x="-120" y="170" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
