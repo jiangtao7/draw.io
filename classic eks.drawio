@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T15:54:22.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1BCEONTs9BpWf1C_PeQG" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T15:55:45.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vEpT4WA2HjRksX746iOZ" version="20.8.23" type="github">
   <diagram name="Page-1" id="vNDUmQ9X8iTSRwNMCsqz">
     <mxGraphModel dx="2499" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="nDq_KjHqGvG9ko2mTiTP-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/geosm-e-commerce/48/logs-2-128.png;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="970" y="250" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nDq_KjHqGvG9ko2mTiTP-88" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/gcons-2/32/balance-128.png;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="530" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
