@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T16:37:06.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="c2coyT53CoNGQWzGjitk" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T16:38:04.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IP9l3K9Ag-qLNobVsoda" version="20.8.23" type="github">
   <diagram name="Page-1" id="vNDUmQ9X8iTSRwNMCsqz">
     <mxGraphModel dx="3349" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -346,8 +346,8 @@
             <mxPoint x="1064.5" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nDq_KjHqGvG9ko2mTiTP-156" value="? 3, 4, 5 team members" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="135" y="270" width="290" height="40" as="geometry" />
+        <mxCell id="nDq_KjHqGvG9ko2mTiTP-156" value="3, 4, 5 team members" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="65" y="270" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nDq_KjHqGvG9ko2mTiTP-161" value="Kafka" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillStyle=auto;strokeColor=#82b366;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="30" y="427" width="70" height="70" as="geometry" />
@@ -372,6 +372,9 @@
         </mxCell>
         <mxCell id="nDq_KjHqGvG9ko2mTiTP-171" value="? classic tools scope" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;dashed=1;fillStyle=auto;strokeColor=#FF0000;fontSize=15;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-170" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nDq_KjHqGvG9ko2mTiTP-174" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="55" y="222" width="41" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
