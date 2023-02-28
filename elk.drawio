@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T17:37:43.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ao0QSJTQpBEmizzEeFo2" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T17:38:43.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LOHpeeW1Fn1em8Rh0IST" version="20.8.23" type="github">
   <diagram name="Page-1" id="OWeuh5Rih9QYdeYNk9eg">
-    <mxGraphModel dx="2597" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2597" dy="2231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,6 +145,9 @@
             <mxPoint x="910" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lQsMLo7POFfHN_5h0St5-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=115;entryDy=140;entryPerimeter=0;dashed=1;strokeColor=#CCCCCC;" edge="1" parent="1" source="lQsMLo7POFfHN_5h0St5-54" target="lQsMLo7POFfHN_5h0St5-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lQsMLo7POFfHN_5h0St5-54" value="Coordinating Node&lt;br&gt;(client)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-540" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -195,6 +198,9 @@
         </mxCell>
         <mxCell id="lQsMLo7POFfHN_5h0St5-71" value="&lt;ul&gt;&lt;li&gt;cluster settings.&lt;/li&gt;&lt;li&gt;cluster changes (delete, create) indices &amp;amp; fields&lt;/li&gt;&lt;li&gt;nodes management.&lt;/li&gt;&lt;li&gt;allocate shards vs nodes&lt;/li&gt;&lt;li&gt;leader master vs followers&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="-40" y="10" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lQsMLo7POFfHN_5h0St5-73" value="&lt;ul&gt;&lt;li&gt;forward traffic to master | data nodes.&lt;/li&gt;&lt;li&gt;data aggregation from data nodes.&lt;/li&gt;&lt;li&gt;query from nodes.&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="-20" width="230" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
