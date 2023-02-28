@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T17:35:11.127Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zqKjtPdnaYS9uqY8i1XJ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T17:37:43.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ao0QSJTQpBEmizzEeFo2" version="20.8.23" type="github">
   <diagram name="Page-1" id="OWeuh5Rih9QYdeYNk9eg">
     <mxGraphModel dx="2597" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="lQsMLo7POFfHN_5h0St5-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrows-set-12/512/reset-128.png" vertex="1" parent="1">
           <mxGeometry x="421" y="270" width="73" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="lQsMLo7POFfHN_5h0St5-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=60;entryDy=80;entryPerimeter=0;strokeColor=#CCCCCC;dashed=1;" edge="1" parent="1" source="lQsMLo7POFfHN_5h0St5-35" target="lQsMLo7POFfHN_5h0St5-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lQsMLo7POFfHN_5h0St5-35" value="Master Node" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="230" y="190" width="120" height="60" as="geometry" />
@@ -189,6 +192,9 @@
             <mxPoint x="-100" y="430" as="sourcePoint" />
             <mxPoint x="-10" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lQsMLo7POFfHN_5h0St5-71" value="&lt;ul&gt;&lt;li&gt;cluster settings.&lt;/li&gt;&lt;li&gt;cluster changes (delete, create) indices &amp;amp; fields&lt;/li&gt;&lt;li&gt;nodes management.&lt;/li&gt;&lt;li&gt;allocate shards vs nodes&lt;/li&gt;&lt;li&gt;leader master vs followers&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="10" width="230" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
