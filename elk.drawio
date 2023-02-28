@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T17:38:43.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LOHpeeW1Fn1em8Rh0IST" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T17:58:29.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZbhmRGvfuaHtrL-MiM9V" version="20.8.23" type="github">
   <diagram name="Page-1" id="OWeuh5Rih9QYdeYNk9eg">
     <mxGraphModel dx="2597" dy="2231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,29 +178,37 @@
             <mxPoint x="-630" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lQsMLo7POFfHN_5h0St5-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#006600;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="306" as="sourcePoint" />
-            <mxPoint x="90" y="306" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lQsMLo7POFfHN_5h0St5-69" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#006600;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-210" y="560" as="sourcePoint" />
-            <mxPoint x="-150" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lQsMLo7POFfHN_5h0St5-70" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#006600;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-100" y="430" as="sourcePoint" />
-            <mxPoint x="-10" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lQsMLo7POFfHN_5h0St5-71" value="&lt;ul&gt;&lt;li&gt;cluster settings.&lt;/li&gt;&lt;li&gt;cluster changes (delete, create) indices &amp;amp; fields&lt;/li&gt;&lt;li&gt;nodes management.&lt;/li&gt;&lt;li&gt;allocate shards vs nodes&lt;/li&gt;&lt;li&gt;leader master vs followers&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="-40" y="10" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="lQsMLo7POFfHN_5h0St5-73" value="&lt;ul&gt;&lt;li&gt;forward traffic to master | data nodes.&lt;/li&gt;&lt;li&gt;data aggregation from data nodes.&lt;/li&gt;&lt;li&gt;query from nodes.&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="-720" y="-20" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lQsMLo7POFfHN_5h0St5-75" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#CC0000;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-125" y="359.05" as="sourcePoint" />
+            <mxPoint x="30" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQsMLo7POFfHN_5h0St5-76" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#CC0000;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-134" y="379.05" as="sourcePoint" />
+            <mxPoint x="11" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQsMLo7POFfHN_5h0St5-77" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#CC0000;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-150" y="400" as="sourcePoint" />
+            <mxPoint x="-70" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQsMLo7POFfHN_5h0St5-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#CC0000;" edge="1" parent="1" source="lQsMLo7POFfHN_5h0St5-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQsMLo7POFfHN_5h0St5-78" value="&lt;ul&gt;&lt;li&gt;Roll over action age, size and others.&lt;/li&gt;&lt;li&gt;Roll over action on index&lt;/li&gt;&lt;li&gt;Force merge somehow.&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="610" width="201" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
