@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T21:14:21.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.2" etag="rvTUUWA0I2k2AYEwLTJ8" type="github"><diagram name="Page-1" id="8vLgI_srxZqcRW3_bEZO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-07T21:19:31.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JpSk7r4ox4SlZjBPiqdZ" version="21.0.2" type="github">
+  <diagram name="Page-1" id="8vLgI_srxZqcRW3_bEZO">
+    <mxGraphModel dx="1234" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-1" value="LDAP Server" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zefqjRs-N_y_3eKl5sNk-2" target="zefqjRs-N_y_3eKl5sNk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="620" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="zefqjRs-N_y_3eKl5sNk-3" target="zefqjRs-N_y_3eKl5sNk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zefqjRs-N_y_3eKl5sNk-3" target="zefqjRs-N_y_3eKl5sNk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zefqjRs-N_y_3eKl5sNk-3" target="zefqjRs-N_y_3eKl5sNk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-3" value="Authentication&lt;br&gt;(Sprint Boot Stack)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zefqjRs-N_y_3eKl5sNk-8" target="zefqjRs-N_y_3eKl5sNk-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="340" />
+              <mxPoint x="145" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-8" value="Backend API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-10" value="? role with user id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="525" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zefqjRs-N_y_3eKl5sNk-11" target="zefqjRs-N_y_3eKl5sNk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-11" value="wrap error message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-14" value="role != expected role, then error return" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="730" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zefqjRs-N_y_3eKl5sNk-16" value="role == expected role, then go" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="590" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
