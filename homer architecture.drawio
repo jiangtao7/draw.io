@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T00:34:07.918Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Hxe8xSF0kRBRS6M1rqZA" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T00:35:46.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_94iNbzGiAmuVk9Astd8" version="21.2.2" type="github">
   <diagram name="Page-1" id="za1TShl-4mcU_0A_Vvy9">
     <mxGraphModel dx="1531" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -192,8 +192,8 @@
         <mxCell id="YVhRUXpMHxRbACGFWyIF-65" value="Spotfleet Request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVhRUXpMHxRbACGFWyIF-67" value="slave engine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1030" width="90" height="30" as="geometry" />
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-67" value="slave engine: we make it configurable in case customized requirements" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1030" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-3/24/bx-share-alt-128.png" vertex="1" parent="1">
           <mxGeometry x="263" y="383" width="34" height="34" as="geometry" />
