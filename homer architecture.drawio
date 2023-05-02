@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T01:23:58.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3VPh3Hf7z73dFpneQchb" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T01:29:01.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3UlsEyxzv-xlZZ5XVpfN" version="21.2.2" type="github">
   <diagram name="Page-1" id="za1TShl-4mcU_0A_Vvy9">
     <mxGraphModel dx="1531" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVhRUXpMHxRbACGFWyIF-24" value="Jenkins&amp;nbsp;Artifacts&lt;br&gt;&amp;nbsp;(software, plugins)&lt;br&gt;(git)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontSize=15;fontColor=#006600;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-24" value="Jenkins&amp;nbsp;Artifacts&lt;br&gt;&amp;nbsp;(software, plugins)&lt;br&gt;(git, jenkinsci plugins)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontSize=15;fontColor=#006600;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="680" y="140" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;dashed=1;fillColor=#d5e8d4;strokeColor=#CCCCCC;strokeWidth=2;" edge="1" parent="1" source="YVhRUXpMHxRbACGFWyIF-25" target="YVhRUXpMHxRbACGFWyIF-47">
