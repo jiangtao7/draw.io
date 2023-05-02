@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T01:22:50.715Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SWeAlWh_UFyyVYOEYcfb" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T01:23:58.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3VPh3Hf7z73dFpneQchb" version="21.2.2" type="github">
   <diagram name="Page-1" id="za1TShl-4mcU_0A_Vvy9">
     <mxGraphModel dx="1531" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVhRUXpMHxRbACGFWyIF-23" value="Jenkins AMI &lt;br&gt;/ &lt;br&gt;Slave image" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontSize=15;fontColor=#006600;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-23" value="Jenkins AMI &lt;br&gt;/ &lt;br&gt;Slave image&lt;br&gt;(ecr, ami)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontSize=15;fontColor=#006600;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="425" y="140" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="YVhRUXpMHxRbACGFWyIF-24" target="YVhRUXpMHxRbACGFWyIF-47">
@@ -115,7 +115,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVhRUXpMHxRbACGFWyIF-24" value="Jenkins&amp;nbsp;Artifacts&lt;br&gt;&amp;nbsp;(software, plugins)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontSize=15;fontColor=#006600;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-24" value="Jenkins&amp;nbsp;Artifacts&lt;br&gt;&amp;nbsp;(software, plugins)&lt;br&gt;(git)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontSize=15;fontColor=#006600;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="680" y="140" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;dashed=1;fillColor=#d5e8d4;strokeColor=#CCCCCC;strokeWidth=2;" edge="1" parent="1" source="YVhRUXpMHxRbACGFWyIF-25" target="YVhRUXpMHxRbACGFWyIF-47">
@@ -126,7 +126,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVhRUXpMHxRbACGFWyIF-25" value="Pipeline Templates" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CCCCCC;fontSize=15;fontColor=#999999;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-25" value="Pipeline Templates&lt;br&gt;(git)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CCCCCC;fontSize=15;fontColor=#999999;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="940" y="140" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;fillColor=#d5e8d4;strokeColor=#CCCCCC;strokeWidth=2;" edge="1" parent="1" source="YVhRUXpMHxRbACGFWyIF-26" target="YVhRUXpMHxRbACGFWyIF-47">
@@ -137,7 +137,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVhRUXpMHxRbACGFWyIF-26" value="Jenkins Backups&lt;br&gt;(s3 bucket)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CCCCCC;fontSize=15;fontColor=#999999;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-26" value="Jenkins Backups&lt;br&gt;(s3)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CCCCCC;fontSize=15;fontColor=#999999;fillColor=#FFFFFF;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="1197.5" y="140" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="YVhRUXpMHxRbACGFWyIF-32" target="YVhRUXpMHxRbACGFWyIF-79">
