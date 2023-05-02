@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T00:24:46.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8tbh3sF5C0J0pbLlQi0U" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T00:26:35.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1vT-9yjmKl7GZEoSNsJQ" version="21.2.2" type="github">
   <diagram name="Page-1" id="za1TShl-4mcU_0A_Vvy9">
     <mxGraphModel dx="1531" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry x="850" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="637.75" y="635" width="122.25" height="60" as="geometry" />
+          <mxGeometry x="610" y="635" width="122.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-15" value="Jenkins Master&lt;br&gt;(Team A)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YVhRUXpMHxRbACGFWyIF-14">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -161,7 +161,7 @@
             <mxPoint x="279.5" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVhRUXpMHxRbACGFWyIF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=4;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=4;fillColor=#60a917;strokeColor=#CCCCCC;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="780" as="sourcePoint" />
             <mxPoint x="570" y="779.5" as="targetPoint" />
@@ -201,10 +201,13 @@
         <mxCell id="YVhRUXpMHxRbACGFWyIF-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-3/24/bx-share-alt-128.png" vertex="1" parent="1">
           <mxGeometry x="936" y="383" width="34" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;strokeWidth=4;strokeColor=#CCCCCC;" edge="1" parent="1" source="YVhRUXpMHxRbACGFWyIF-70" target="YVhRUXpMHxRbACGFWyIF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-70" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.call_center_agent;" vertex="1" parent="1">
           <mxGeometry x="610" y="745" width="46" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="YVhRUXpMHxRbACGFWyIF-71" value="Report Jenkins State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-71" value="Report Jenkins State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#CCCCCC;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="746" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
