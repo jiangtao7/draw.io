@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T00:26:35.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1vT-9yjmKl7GZEoSNsJQ" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T00:31:35.403Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Oo5mCYox3gW45QfuWxec" version="21.2.2" type="github">
   <diagram name="Page-1" id="za1TShl-4mcU_0A_Vvy9">
     <mxGraphModel dx="1531" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVhRUXpMHxRbACGFWyIF-22" value="Playbooks" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CCCCCC;fontSize=15;fontColor=#006600;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-22" value="Playbooks &lt;br&gt;(Manage, Configure)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CCCCCC;fontSize=15;fontColor=#006600;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="YVhRUXpMHxRbACGFWyIF-23" target="YVhRUXpMHxRbACGFWyIF-47">
@@ -209,6 +209,12 @@
         </mxCell>
         <mxCell id="YVhRUXpMHxRbACGFWyIF-71" value="Report Jenkins State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#CCCCCC;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="746" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/8-128.png" vertex="1" parent="1">
+          <mxGeometry x="860" y="527" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="YVhRUXpMHxRbACGFWyIF-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;strokeWidth=4;dashed=1;strokeColor=#CCCCCC;" edge="1" parent="1" source="YVhRUXpMHxRbACGFWyIF-15" target="YVhRUXpMHxRbACGFWyIF-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
