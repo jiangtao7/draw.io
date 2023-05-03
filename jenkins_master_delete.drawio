@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T03:22:41.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yl7HDlAAvnPjqTCRsq92" version="21.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T23:22:37.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="enokHZODs240FeIMQTOp" version="21.2.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="3530" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2243" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,22 +157,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLHE1SMrp8Qe7MBTJXoM-12" value="delete spotfleet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-390" y="344" width="100" height="30" as="geometry" />
+        <mxCell id="rLHE1SMrp8Qe7MBTJXoM-12" value="delete spotfleet if spot fleet configured" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-423" y="344" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rLHE1SMrp8Qe7MBTJXoM-13" value="delete namespace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="363" width="120" height="30" as="geometry" />
+        <mxCell id="rLHE1SMrp8Qe7MBTJXoM-13" value="delete namespace if k8s configured" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-269" y="361" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rLHE1SMrp8Qe7MBTJXoM-14" value="delete ec2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-837" y="468" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9BE1l6irgVHf9agvu9vQ-1" value=":Jenkins s3 backup" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="9BE1l6irgVHf9agvu9vQ-1" value=":Jenkins s3 backup" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="-40" y="190" width="100" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="9BE1l6irgVHf9agvu9vQ-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#0F8B8D;strokeWidth=1;fillColor=#FAE5C7;fontFamily=Verdana;fontSize=12;fontColor=#143642;align=center;" vertex="1" parent="9BE1l6irgVHf9agvu9vQ-1">
+        <mxCell id="9BE1l6irgVHf9agvu9vQ-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#0F8B8D;strokeWidth=1;fillColor=#FAE5C7;fontFamily=Verdana;fontSize=12;fontColor=#143642;align=center;" parent="9BE1l6irgVHf9agvu9vQ-1" vertex="1">
           <mxGeometry x="45" y="205" width="10" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="9BE1l6irgVHf9agvu9vQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;" edge="1" parent="1" source="7baba1c4bc27f4b0-10" target="9BE1l6irgVHf9agvu9vQ-2">
+        <mxCell id="9BE1l6irgVHf9agvu9vQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;" parent="1" source="7baba1c4bc27f4b0-10" target="9BE1l6irgVHf9agvu9vQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-300" y="409" />
@@ -180,7 +180,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9BE1l6irgVHf9agvu9vQ-4" value="delete backup" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9BE1l6irgVHf9agvu9vQ-4" value="delete backup" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-130" y="388" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
