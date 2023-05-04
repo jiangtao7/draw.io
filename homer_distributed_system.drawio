@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T05:07:29.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vYrxGrmR6fxO5Y8PIFzS" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T05:07:41.111Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="37EYvdTgdNPjnNaWKclq" version="21.2.6" type="github">
   <diagram name="Page-1" id="HMeSJkny4wYuckMMA0fv">
     <mxGraphModel dx="1933" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
         <mxCell id="agCpb_SMPKk3TFrb06sG-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-84" target="agCpb_SMPKk3TFrb06sG-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-84" value="Pipeline templates, libs, plugins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="agCpb_SMPKk3TFrb06sG-84" value="Pipeline templates, libs, plugins&lt;br&gt;(git)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
