@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T05:31:23.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="d2v-quc8hOUu45FHrqNt" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T06:28:32.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BAaluryOnwinkS7vVs18" version="21.2.6" type="github">
   <diagram name="Page-1" id="HMeSJkny4wYuckMMA0fv">
-    <mxGraphModel dx="1933" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2641" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,14 +139,17 @@
         <mxCell id="agCpb_SMPKk3TFrb06sG-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#CCCCCC;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-50" target="agCpb_SMPKk3TFrb06sG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#CCCCCC;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-50" target="agCpb_SMPKk3TFrb06sG-24">
+        <mxCell id="agCpb_SMPKk3TFrb06sG-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#CCCCCC;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-50" target="agCpb_SMPKk3TFrb06sG-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-50" value="Jenkins master/slave AMI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="985" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="agCpb_SMPKk3TFrb06sG-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#CCCCCC;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-50" target="agCpb_SMPKk3TFrb06sG-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-53" value="Slave Docker Image&lt;br&gt;(customization)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="agCpb_SMPKk3TFrb06sG-50" value="Jenkins AMI for master, slave" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="985" y="740" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agCpb_SMPKk3TFrb06sG-53" value="Jenkins job container docker image (open for contribution)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="740" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-55" target="agCpb_SMPKk3TFrb06sG-1">
           <mxGeometry relative="1" as="geometry" />
@@ -199,8 +202,8 @@
         <mxCell id="agCpb_SMPKk3TFrb06sG-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-78" target="agCpb_SMPKk3TFrb06sG-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-78" value="Jenkins war &amp;amp; backup&lt;br&gt;(s3 bucket)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="agCpb_SMPKk3TFrb06sG-78" value="Jenkins war &amp;amp; Jenkins service backup&lt;br&gt;(s3 bucket)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="740" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-83" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;strokeColor=#CC0000;fontColor=#CC0000;" edge="1" parent="1" target="agCpb_SMPKk3TFrb06sG-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -208,14 +211,14 @@
             <mxPoint x="272.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-19" value="shared playbooks&lt;br&gt;(provision, configure)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="agCpb_SMPKk3TFrb06sG-19" value="homer playbooks&lt;br&gt;(manage, configure)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-84" target="agCpb_SMPKk3TFrb06sG-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-84" value="Pipeline templates, libs, plugins&lt;br&gt;(git)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="agCpb_SMPKk3TFrb06sG-84" value="Jenkins pipeline templates, common library, trusted plugins&lt;br&gt;(git, open for contribution)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="740" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
