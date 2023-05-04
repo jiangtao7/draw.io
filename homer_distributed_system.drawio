@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T04:42:41.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uSYE8QijxkYc4ZSWN6bc" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T04:43:38.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uBu-9Y68-n0CtX0lkAi3" version="21.2.6" type="github">
   <diagram name="Page-1" id="HMeSJkny4wYuckMMA0fv">
     <mxGraphModel dx="1933" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,8 +160,8 @@
             <mxPoint x="1345" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-61" value="Jenkins Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="160" width="110" height="30" as="geometry" />
+        <mxCell id="agCpb_SMPKk3TFrb06sG-61" value="Jenkins master service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="160" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-62" value="Job runtime or remote integration service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1390" y="50" width="240" height="30" as="geometry" />
@@ -181,8 +181,8 @@
             <mxPoint x="865" y="184" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-69" value="Playbooks Execution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="160" width="130" height="30" as="geometry" />
+        <mxCell id="agCpb_SMPKk3TFrb06sG-69" value="The shared playbooks execution area" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-71" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1005" y="58" width="50" height="30" as="geometry" />
