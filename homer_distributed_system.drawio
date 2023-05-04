@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T06:52:47.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cl5QrwRip5xiU8bXoRvL" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T06:53:14.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Q8KLGU7vPa8kMRZ3jSGH" version="21.2.6" type="github">
   <diagram name="Page-1" id="HMeSJkny4wYuckMMA0fv">
     <mxGraphModel dx="2641" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-84" value="Jenkins pipeline templates, common library, trusted plugins&lt;br&gt;(git, open for contribution)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="770" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agCpb_SMPKk3TFrb06sG-91" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="198" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
