@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T04:58:10.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_yPGjcUJqW0u4rIho5Zq" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T05:00:30.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="g_6Enyv1P_BV06ca1Cg8" version="21.2.6" type="github">
   <diagram name="Page-1" id="HMeSJkny4wYuckMMA0fv">
     <mxGraphModel dx="1933" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
             <mxPoint x="1295" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-76" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;strokeColor=#CC0000;fontColor=#CC0000;" edge="1" parent="1">
+        <mxCell id="agCpb_SMPKk3TFrb06sG-76" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;strokeColor=#CC0000;fontColor=#CC0000;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="267.5" y="850" as="sourcePoint" />
             <mxPoint x="272.5" y="150" as="targetPoint" />
@@ -143,10 +143,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-50" value="Jenkins master/slave AMI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="808" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-53" value="Slave Docker Image&lt;br&gt;(customization)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-55" target="agCpb_SMPKk3TFrb06sG-1">
           <mxGeometry relative="1" as="geometry" />
@@ -195,6 +195,21 @@
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-74" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Homer Distributed System Architecture &lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(extensible, centralized, cost efficient and self-healing/less maintenance)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="590" y="10" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="agCpb_SMPKk3TFrb06sG-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-78" target="agCpb_SMPKk3TFrb06sG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agCpb_SMPKk3TFrb06sG-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#B3B3B3;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-78" target="agCpb_SMPKk3TFrb06sG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="agCpb_SMPKk3TFrb06sG-78" value="Jenkins war &amp;amp; backup&lt;br&gt;(s3 bucket)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agCpb_SMPKk3TFrb06sG-83" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;strokeColor=#CC0000;fontColor=#CC0000;" edge="1" parent="1" target="agCpb_SMPKk3TFrb06sG-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267.5" y="850" as="sourcePoint" />
+            <mxPoint x="272.5" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-19" value="shared playbooks&lt;br&gt;(provision, configure)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="740" width="120" height="60" as="geometry" />
