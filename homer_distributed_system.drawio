@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T06:33:21.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0aRiizIAvq_WH2edNs4p" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T06:36:52.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="npFz-203C8SBYjI5frw6" version="21.2.6" type="github">
   <diagram name="Page-1" id="HMeSJkny4wYuckMMA0fv">
     <mxGraphModel dx="2641" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-10" value="cron jobs: &lt;br&gt;backup , clean up ..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="621" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-11" target="agCpb_SMPKk3TFrb06sG-8">
           <mxGeometry relative="1" as="geometry" />
@@ -76,19 +76,19 @@
         <mxCell id="agCpb_SMPKk3TFrb06sG-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-11" target="agCpb_SMPKk3TFrb06sG-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-11" value="load &lt;br&gt;templates, libs, plugins, ..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="agCpb_SMPKk3TFrb06sG-11" value="load &lt;br&gt;template, plugins library" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="330" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-12" target="agCpb_SMPKk3TFrb06sG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-12" value="ami lookup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="agCpb_SMPKk3TFrb06sG-12" value="lookup ami" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-13" target="agCpb_SMPKk3TFrb06sG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agCpb_SMPKk3TFrb06sG-13" value="s3 buckup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="agCpb_SMPKk3TFrb06sG-13" value="jenkins &lt;br&gt;backup or war" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#CCCCCC;" edge="1" parent="1" source="agCpb_SMPKk3TFrb06sG-19" target="agCpb_SMPKk3TFrb06sG-2">
@@ -164,7 +164,7 @@
           <mxGeometry x="898" y="155" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-61" value="Jenkins master service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="935" y="300" width="150" height="30" as="geometry" />
+          <mxGeometry x="935" y="280" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-62" value="Homer: Job Runtime or Remote Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1330" y="110" width="310" height="30" as="geometry" />
@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-69" value="The shared playbooks execution area" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="300" width="220" height="30" as="geometry" />
+          <mxGeometry x="470" y="280" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="agCpb_SMPKk3TFrb06sG-71" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="935" y="168" width="50" height="30" as="geometry" />
