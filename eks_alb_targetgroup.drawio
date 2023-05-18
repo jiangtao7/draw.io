@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T03:58:25.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qdFk9J6XengMB5h0pZrg" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T04:00:06.201Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-hzdX0GBKjpsL0GbeLOR" version="21.2.9" type="github">
   <diagram name="Page-1" id="KZ8X3SxO-knhd2NS7IPU">
     <mxGraphModel dx="2658" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="tgWkVytQI8UxieKS8kDx-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#006600;" vertex="1" parent="1">
           <mxGeometry x="37" y="145" width="370" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="tgWkVytQI8UxieKS8kDx-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="tgWkVytQI8UxieKS8kDx-2" target="tgWkVytQI8UxieKS8kDx-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tgWkVytQI8UxieKS8kDx-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="521" y="150" width="240" height="330" as="geometry" />
@@ -162,6 +165,9 @@
         </mxCell>
         <mxCell id="tgWkVytQI8UxieKS8kDx-70" value="Bind Node Port 7 -&amp;gt; App 8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="855" y="380" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tgWkVytQI8UxieKS8kDx-71" value="security policy required for asg + node2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
