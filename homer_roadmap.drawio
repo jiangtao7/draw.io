@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T17:56:12.377Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RXV60zYQdK0Yh5dc2zbz" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T17:57:05.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tqZTgbFS8VHeFIl2GIom" version="21.3.8" type="github">
   <diagram name="Page-1" id="HnMfe0a0eRLMPqjAUpso">
     <mxGraphModel dx="1974" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="iIVuNRlksjzP6fEumrRO-88" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.flag;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1280" y="630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIVuNRlksjzP6fEumrRO-89" value="NOTE: The plan is trying to minimize engineering effort for migration, and make sure migration can be happened as plan&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="28" width="670" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
