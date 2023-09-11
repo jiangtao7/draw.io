@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T22:44:38.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="JuC7IQ_F4zptDu142iVh" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T22:47:08.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YCmD5ZZMr3Sw-ozZhIcL" version="21.6.6" type="github">
   <diagram name="Page-1" id="CJJipEg_ZdHbSAjXl4IN">
     <mxGraphModel dx="4186" dy="2397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -235,6 +235,9 @@
         <mxCell id="A5_PFPzEll5ALQkFPiz4-84" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1030" width="670" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="A5_PFPzEll5ALQkFPiz4-125" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=145;entryDy=160;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A5_PFPzEll5ALQkFPiz4-85" target="A5_PFPzEll5ALQkFPiz4-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A5_PFPzEll5ALQkFPiz4-85" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1030" width="1910" height="90" as="geometry" />
         </mxCell>
@@ -306,6 +309,9 @@
         </mxCell>
         <mxCell id="A5_PFPzEll5ALQkFPiz4-120" value="Master &amp;amp; Data Nodes&lt;br&gt;1. Capacity scaling along with metrics.&lt;br&gt;2. Stabilize data nodes.&lt;br&gt;3. Auto scaling (stateful).&lt;br&gt;4. Data nodes &amp;amp; master perf monitoring.&lt;br&gt;5. Dataflow control, e.g shard isolation." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2800" y="-470" width="315" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="A5_PFPzEll5ALQkFPiz4-124" value="Kubenetes&lt;br&gt;1. Evaluate Kubernetes migration.&amp;nbsp;&lt;br&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="700" width="290" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
