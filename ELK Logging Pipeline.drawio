@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T21:49:40.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="irqceI9JXjeRJPX3xnoY" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T21:50:45.489Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FdEMVEOpbwwZSCTqcIWw" version="21.6.6" type="github">
   <diagram name="Page-1" id="CJJipEg_ZdHbSAjXl4IN">
     <mxGraphModel dx="4186" dy="2397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -267,6 +267,9 @@
         </mxCell>
         <mxCell id="A5_PFPzEll5ALQkFPiz4-108" value="ECS, S3, Others" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="185" y="1055" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A5_PFPzEll5ALQkFPiz4-109" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-timer-outline-128.png" vertex="1" parent="1">
+          <mxGeometry x="1249" y="-420" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
