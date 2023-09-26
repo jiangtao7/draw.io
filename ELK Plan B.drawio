@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T20:08:06.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="W-x1yK5f9NpUavL9s3-F" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T20:12:31.542Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tT42Dpz2BczHk5nIe7fQ" version="21.7.5" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1776" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -42,6 +42,15 @@
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Cut over&lt;/h1&gt;&lt;p&gt;Cut over logging service after running parallel over 30 days&amp;nbsp; and shutdown the old one.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="773" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ckknhjfF2e6AttM1AwAA-1" value="Dev A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="63" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ckknhjfF2e6AttM1AwAA-2" value="Dev B" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ckknhjfF2e6AttM1AwAA-3" value="Dev C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
