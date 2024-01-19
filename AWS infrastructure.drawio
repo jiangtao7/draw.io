@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T20:04:54.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pAhM55MbXibaj3AN74SO" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T20:07:22.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mLRUPpv4PCefMc35ph5H" version="22.1.21" type="github">
   <diagram name="Page-1" id="Hcw4UYvVS3bmZ5iQPETo">
-    <mxGraphModel dx="2236" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,6 +207,12 @@
         </mxCell>
         <mxCell id="vA_yXYNGpYsghTpkuePO-73" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006600;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_orange;" vertex="1" parent="1">
           <mxGeometry x="213" y="66.25" width="42" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vA_yXYNGpYsghTpkuePO-98" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-100" width="50" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vA_yXYNGpYsghTpkuePO-99" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/004_-_Website-128.png" vertex="1" parent="1">
+          <mxGeometry x="880" y="-160" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
