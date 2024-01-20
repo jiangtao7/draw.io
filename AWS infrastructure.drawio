@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T07:54:47.215Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="78VNBNuk5bb2-E5El0KQ" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T08:05:16.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xeKCKOei3_1GpxVDrlt0" version="22.1.21" type="github">
   <diagram name="Page-1" id="Hcw4UYvVS3bmZ5iQPETo">
     <mxGraphModel dx="3491" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -282,6 +282,24 @@
         </mxCell>
         <mxCell id="LkgW_kAOET--SwhJEF_j-20" value="SSH&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-65" y="-122" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LkgW_kAOET--SwhJEF_j-32" value="HA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkgW_kAOET--SwhJEF_j-33" value="High Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkgW_kAOET--SwhJEF_j-34" value="Auto Backup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkgW_kAOET--SwhJEF_j-35" value="HA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkgW_kAOET--SwhJEF_j-36" value="High Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkgW_kAOET--SwhJEF_j-37" value="Auto Backup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
