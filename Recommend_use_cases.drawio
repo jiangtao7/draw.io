@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T16:03:37.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KG8Ytz8sW-OiwzPVoczU" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T16:07:04.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zFi7nmqw2UuDbkwTPDah" version="22.1.21" type="github">
   <diagram name="Page-1" id="lLI1vEKqlTkGyKcoubk4">
-    <mxGraphModel dx="3943" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3491" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,6 +255,24 @@
         </mxCell>
         <mxCell id="HYla8N4dnpUGvem4N8iF-105" value="ML" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="935" y="1030" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HYla8N4dnpUGvem4N8iF-106" value="&lt;ul&gt;&lt;li&gt;? integration&lt;/li&gt;&lt;li&gt;? dynamic BI&lt;/li&gt;&lt;li&gt;? accurate&lt;/li&gt;&lt;li&gt;? disaster&lt;/li&gt;&lt;li&gt;? sources&lt;/li&gt;&lt;li&gt;? ...&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="800" width="167" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HYla8N4dnpUGvem4N8iF-107" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=60;entryDy=80;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="HYla8N4dnpUGvem4N8iF-78" target="HYla8N4dnpUGvem4N8iF-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYla8N4dnpUGvem4N8iF-108" value="&lt;ul&gt;&lt;li&gt;? integration&lt;/li&gt;&lt;li&gt;? dynamic BI&lt;/li&gt;&lt;li&gt;? accurate&lt;/li&gt;&lt;li&gt;? disaster&lt;/li&gt;&lt;li&gt;? sources&lt;/li&gt;&lt;li&gt;? ...&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="690" y="770" width="167" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HYla8N4dnpUGvem4N8iF-109" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=83.5;entryDy=120;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="HYla8N4dnpUGvem4N8iF-79" target="HYla8N4dnpUGvem4N8iF-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HYla8N4dnpUGvem4N8iF-110" value="&lt;ul&gt;&lt;li&gt;? integration&lt;/li&gt;&lt;li&gt;? dynamic BI&lt;/li&gt;&lt;li&gt;? accurate&lt;/li&gt;&lt;li&gt;? disaster&lt;/li&gt;&lt;li&gt;? sources&lt;/li&gt;&lt;li&gt;? ...&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="760" width="167" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HYla8N4dnpUGvem4N8iF-111" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.483;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="HYla8N4dnpUGvem4N8iF-80" target="HYla8N4dnpUGvem4N8iF-110">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
