@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T16:24:14.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qA2M7K2M1XOS7yDb7jA-" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T22:07:46.399Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xQtymKGLXcWguY3Dc5Zp" version="22.1.21" type="github">
   <diagram name="Page-1" id="lLI1vEKqlTkGyKcoubk4">
-    <mxGraphModel dx="3491" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3371" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
         <mxCell id="HYla8N4dnpUGvem4N8iF-72" value="Receive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYla8N4dnpUGvem4N8iF-73" value="Validate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYla8N4dnpUGvem4N8iF-73" value="Preprocessing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYla8N4dnpUGvem4N8iF-74" value="Sava" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -205,10 +205,10 @@
         <mxCell id="HYla8N4dnpUGvem4N8iF-75" value="Load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYla8N4dnpUGvem4N8iF-76" value="Prepare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYla8N4dnpUGvem4N8iF-76" value="ML recommends" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1105" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYla8N4dnpUGvem4N8iF-77" value="Analyze" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYla8N4dnpUGvem4N8iF-77" value="Integrations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1275" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYla8N4dnpUGvem4N8iF-86" value="CDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
