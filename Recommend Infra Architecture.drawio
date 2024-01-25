@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T20:41:10.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XALFIZ7NzED-_D3l9AX1" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T20:45:22.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lxlDV-mFr6jgH_srCkgi" version="22.1.21" type="github">
   <diagram name="Page-1" id="WA7NELbDHmsJ2okj75bz">
     <mxGraphModel dx="2641" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -795,6 +795,21 @@
         </mxCell>
         <mxCell id="I57YyA47od823e3S-cjP-307" value="... More Integration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6500" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I57YyA47od823e3S-cjP-309" value="Global Sharing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="168" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I57YyA47od823e3S-cjP-310" value="Template Framework via Springframework or Others" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/mimetypes/template_source.png" vertex="1" parent="1">
+          <mxGeometry x="1440" y="143.5" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="I57YyA47od823e3S-cjP-311" value="Template Framework for Bigdata Preprocessing via Scala or Python" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/mimetypes/template_source.png" vertex="1" parent="1">
+          <mxGeometry x="2930" y="156" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="I57YyA47od823e3S-cjP-312" value="Template Framework for Bigdata Preprocessing via Scala or Python" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/mimetypes/template_source.png" vertex="1" parent="1">
+          <mxGeometry x="5060" y="166" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="I57YyA47od823e3S-cjP-314" value="Template Framework via Springframework or Others" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/mimetypes/template_source.png" vertex="1" parent="1">
+          <mxGeometry x="6590" y="156" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
