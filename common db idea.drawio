@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T17:23:14.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GI7BCnMxxigK6SedXE0H" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T17:24:07.639Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YvFTdeZr7qVW1_l31L0m" version="23.1.2" type="github">
   <diagram name="Page-1" id="Bb5PjucaasYFHXv9t2hh">
-    <mxGraphModel dx="2611" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2611" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q_MenP5QwrPpLCp4PIsN-26" value="&lt;ol&gt;&lt;li&gt;? cost efficiency ...&amp;nbsp;&lt;/li&gt;&lt;li&gt;? proper db setup ...&amp;nbsp;&lt;/li&gt;&lt;li&gt;? professional maintainable ...&lt;/li&gt;&lt;li&gt;? flexible and scalable ...&lt;/li&gt;&lt;/ol&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;dashed=1;strokeWidth=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="730" y="420" width="340" height="130" as="geometry" />
+          <mxGeometry x="670" y="392" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6EMSi_ttVj-jGXqPHPJ0-1" value="RDS&lt;br&gt;(shared instance)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="352.5" y="687" width="110" height="80" as="geometry" />
@@ -97,8 +97,8 @@
         <mxCell id="6EMSi_ttVj-jGXqPHPJ0-16" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
           <mxGeometry x="230" y="400" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LgoVwcYKGDCYE_BlqMR0-1" value="db infos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="49.19" y="610" width="70" height="30" as="geometry" />
+        <mxCell id="LgoVwcYKGDCYE_BlqMR0-1" value="DB connections" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="58" y="604" width="102" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
