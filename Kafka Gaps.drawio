@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" modified="2024-03-06T16:08:06.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Dgc5pfF4NeLP5ZsKwUps" version="24.0.1" type="github">
+  <diagram name="Page-1" id="bAINpf6KoNzR9bVkW3b0">
+    <mxGraphModel dx="3491" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-1" target="zBPyxfVB5SjCAmJ3fcb3-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-1" target="zBPyxfVB5SjCAmJ3fcb3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-1" target="zBPyxfVB5SjCAmJ3fcb3-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-1" value="Kafka System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-2" target="zBPyxfVB5SjCAmJ3fcb3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485.5" y="870" as="sourcePoint" />
+            <mxPoint x="480" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-4" value="Engineer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-5" value="SRE" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-6" value="Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="780" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-13" value="&lt;ol&gt;&lt;li&gt;We need more topic partitions to improve capacity.&lt;/li&gt;&lt;li&gt;We&#39;d like to have more insight of about our service, e.g lag, traffic, throughput.&lt;/li&gt;&lt;li&gt;We&#39;d like to have alerts before customers escalation (p1, p2, p0)&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="970" y="10" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-14" value="&lt;ol&gt;&lt;li&gt;We&#39;d like to know the Kafka cluster&#39;s healthy status.&lt;/li&gt;&lt;li&gt;We&#39;d like to identify topic ownership.&lt;/li&gt;&lt;li&gt;We&#39;d like to have some troubleshooting skills to address prod issue...&lt;/li&gt;&lt;/ol&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="980" y="290" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-15" value="&lt;ol&gt;&lt;li&gt;How Kafka is being used in ZUORA?&lt;/li&gt;&lt;li&gt;What kind of solutions we can get from Kafka ....&lt;/li&gt;&lt;/ol&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="980" y="570" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-16" value="&lt;ol&gt;&lt;li&gt;Engineers need to address their perf issues since Kafka server is healthy, is still right way to do?&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;We know there are features/functions which can help engineers, but we don&#39;t have resources and priorities.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;There are tons of potentials issues, while, we have limit resource and priority conflict to address it.&lt;/li&gt;&lt;li&gt;There are no full time resources focusing on Kafka system, all of us are part-time&lt;/li&gt;&lt;/ol&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="120" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=160;entryDy=220;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-2" target="zBPyxfVB5SjCAmJ3fcb3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=130;entryDy=170;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-4" target="zBPyxfVB5SjCAmJ3fcb3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=130;entryDy=170;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-5" target="zBPyxfVB5SjCAmJ3fcb3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=130;entryDy=170;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-6" target="zBPyxfVB5SjCAmJ3fcb3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-21" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="660" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-1" target="zBPyxfVB5SjCAmJ3fcb3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-23" value="&lt;ol&gt;&lt;li&gt;Challenges:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Why we need to do it? What&#39;s output?&lt;/li&gt;&lt;li&gt;How much effort we need to put on?&lt;/li&gt;&lt;li&gt;Service team escalated, pls fix it asap.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="440" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zBPyxfVB5SjCAmJ3fcb3-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=140;entryDy=140;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="zBPyxfVB5SjCAmJ3fcb3-21" target="zBPyxfVB5SjCAmJ3fcb3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
