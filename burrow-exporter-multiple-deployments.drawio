@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T23:33:25.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Jm6CPVuhlwIVbW_z2X61" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T23:34:30.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FEDdkAx9uq3gy9w2r3xr" version="24.0.4" type="github">
   <diagram name="Page-1" id="SW-odiyEQwMfv1jG1WDS">
     <mxGraphModel dx="1078" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="B50F5WC5D8Dv4iFECrh4-20" value="Kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="715" y="692" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B50F5WC5D8Dv4iFECrh4-21" value="Kafka Cluster by Planet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="15" y="790" width="150" height="30" as="geometry" />
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-21" value="Kafka Cluster for Business" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10" y="790" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B50F5WC5D8Dv4iFECrh4-22" value="Kafka Cluster for Monitor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="665" y="790" width="160" height="30" as="geometry" />
