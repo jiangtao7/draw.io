@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T23:32:30.513Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Mukiq2jbT1EiGfhN_zF_" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T23:33:25.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Jm6CPVuhlwIVbW_z2X61" version="24.0.4" type="github">
   <diagram name="Page-1" id="SW-odiyEQwMfv1jG1WDS">
     <mxGraphModel dx="1078" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cuUap0faX6KDUWeLGSfr-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="380" width="70" height="100" as="geometry" />
+          <mxGeometry x="310" y="380" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cuUap0faX6KDUWeLGSfr-3" value="Perf Improvement with Horizontal Scaling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="422.5" width="240" height="30" as="geometry" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="cuUap0faX6KDUWeLGSfr-16" value="Whitelist or Blacklist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="425" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cuUap0faX6KDUWeLGSfr-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/person-simple-run-thin-128.png" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="440" width="43" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
