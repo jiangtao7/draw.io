@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-03-12T23:21:45.489Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HSTRULOC7nZiEK-4_beG" version="24.0.4" type="github">
+  <diagram name="Page-1" id="SW-odiyEQwMfv1jG1WDS">
+    <mxGraphModel dx="1078" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="210" y="138" width="420" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-2" target="B50F5WC5D8Dv4iFECrh4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-2" value="Burrow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-4" target="B50F5WC5D8Dv4iFECrh4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-4" value="Kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="65" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-5" value="Burrow Exporter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-7" value="Kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-9" value="Kafka Cluster by Planet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="278" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-10" value="Kafka Cluster for Monitor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="278" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-5" target="B50F5WC5D8Dv4iFECrh4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="205" y="550" width="420" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-16" target="B50F5WC5D8Dv4iFECrh4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-16" target="B50F5WC5D8Dv4iFECrh4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-16" target="B50F5WC5D8Dv4iFECrh4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-16" value="Burrow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="255" y="702" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-18" target="B50F5WC5D8Dv4iFECrh4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-18" value="Kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="692" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-19" value="Burrow Exporter&lt;br&gt;for Medium Priorities (e.g PAY)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="465" y="702" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-20" value="Kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="715" y="692" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-21" value="Kafka Cluster by Planet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="790" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-22" value="Kafka Cluster for Monitor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="790" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-19" target="B50F5WC5D8Dv4iFECrh4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-24" value="Burrow Exporter&lt;br&gt;for High Priorities (e.g DACO)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-25" value="Burrow Exporter&lt;br&gt;for Lower Priorities (e.g SNOW)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="465" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-24" target="B50F5WC5D8Dv4iFECrh4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B50F5WC5D8Dv4iFECrh4-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B50F5WC5D8Dv4iFECrh4-25" target="B50F5WC5D8Dv4iFECrh4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
