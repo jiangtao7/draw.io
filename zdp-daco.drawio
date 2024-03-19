@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T00:05:03.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Z1D7-N4jAsl-Co4S8_as" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T00:09:07.315Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tx9cf_58VusNcP1DUaoU" version="24.0.6" type="github">
   <diagram name="Page-1" id="sh8ykiF0knSkxBJXVvDX">
-    <mxGraphModel dx="3491" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3491" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -788,6 +788,9 @@
         </mxCell>
         <mxCell id="TIKX9eycbTkuqXLnJjCn-213" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/clanbomber.png" vertex="1" parent="1">
           <mxGeometry x="2904" y="651.25" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="TIKX9eycbTkuqXLnJjCn-214" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Kafka Cluster Capacity vs Caudron/DACO Data Pipeline/Future Data Pipeline&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontColor=#000099;labelBackgroundColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="-20" width="930" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
