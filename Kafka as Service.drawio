@@ -1,14 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T15:17:04.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HZ8HVV4UY3mLO0IOBlGT" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T15:29:15.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NASL02N_s4NH7wtsvoTW" version="24.0.7" type="github">
   <diagram name="Page-1" id="rygwS8VyxAOfs3rbuVMZ">
     <mxGraphModel dx="2641" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="D8cfFL2hckd1D-f0yYhA-2" target="84Uw6vzV4NWcDb3TtWeP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="482.5" width="380" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="D8cfFL2hckd1D-f0yYhA-1" target="84Uw6vzV4NWcDb3TtWeP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="482.5" width="460" height="115" as="geometry" />
+        </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="700" width="870" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="84Uw6vzV4NWcDb3TtWeP-1" value="Service Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="465" y="270" width="30" height="60" as="geometry" />
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="84Uw6vzV4NWcDb3TtWeP-1" target="D8cfFL2hckd1D-f0yYhA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="84Uw6vzV4NWcDb3TtWeP-1" value="Service Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="440" y="307" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-3" value="Kafka Cluster A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="760" width="120" height="60" as="geometry" />
@@ -20,16 +35,16 @@
           <mxGeometry x="1050" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-6" value="ZKAS&amp;nbsp;&lt;div&gt;Console&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-7" value="ZKAS&amp;nbsp;&lt;div&gt;Capacity Manager&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-8" value="ZKAS&amp;nbsp;&lt;div&gt;Topics&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Recycler&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-9" value="ZKAS&amp;nbsp;&lt;div&gt;Observability&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-10" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -37,8 +52,30 @@
             <mxPoint x="955" y="789.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="84Uw6vzV4NWcDb3TtWeP-12" value="ZKAS Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="675" y="270" width="30" height="60" as="geometry" />
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="84Uw6vzV4NWcDb3TtWeP-12" target="D8cfFL2hckd1D-f0yYhA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="420" />
+              <mxPoint x="1000" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="84Uw6vzV4NWcDb3TtWeP-12" target="D8cfFL2hckd1D-f0yYhA-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="420" />
+              <mxPoint x="645" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="84Uw6vzV4NWcDb3TtWeP-12" value="ZKAS Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="720" y="307" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-16" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="539.5" as="sourcePoint" />
+            <mxPoint x="1040" y="539.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
