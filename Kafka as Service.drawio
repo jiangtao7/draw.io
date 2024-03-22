@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T15:29:15.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NASL02N_s4NH7wtsvoTW" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T15:32:01.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="twZU7Qaag8zqBCSzFi3R" version="24.0.7" type="github">
   <diagram name="Page-1" id="rygwS8VyxAOfs3rbuVMZ">
     <mxGraphModel dx="2641" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,30 +26,30 @@
           <mxGeometry x="440" y="307" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-3" value="Kafka Cluster A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-4" value="Kafka Cluster B" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-5" value="Kafka Cluster N" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-6" value="ZKAS&amp;nbsp;&lt;div&gt;Console&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-7" value="ZKAS&amp;nbsp;&lt;div&gt;Capacity Manager&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-8" value="ZKAS&amp;nbsp;&lt;div&gt;Topics&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Recycler&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-9" value="ZKAS&amp;nbsp;&lt;div&gt;Observability&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84Uw6vzV4NWcDb3TtWeP-10" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="845" y="789.5" as="sourcePoint" />
-            <mxPoint x="955" y="789.5" as="targetPoint" />
+            <mxPoint x="850" y="789.5" as="sourcePoint" />
+            <mxPoint x="960" y="789.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D8cfFL2hckd1D-f0yYhA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="84Uw6vzV4NWcDb3TtWeP-12" target="D8cfFL2hckd1D-f0yYhA-1">
@@ -73,9 +73,21 @@
         </mxCell>
         <mxCell id="D8cfFL2hckd1D-f0yYhA-16" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="539.5" as="sourcePoint" />
-            <mxPoint x="1040" y="539.5" as="targetPoint" />
+            <mxPoint x="970" y="549" as="sourcePoint" />
+            <mxPoint x="1030" y="549" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.on_demand_self_service;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-18" value="On-Demand Self Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="482.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-19" value="ZKAS Admin Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="490" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-20" value="On-Demand ZUORA Kafka As Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="720" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
