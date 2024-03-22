@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T17:58:51.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="681OSVuN2i762FB-1JG_" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T17:59:27.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7KvP2ViAxYGv0h2WlOrS" version="24.0.7" type="github">
   <diagram name="Page-1" id="rygwS8VyxAOfs3rbuVMZ">
     <mxGraphModel dx="2641" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,8 +83,8 @@
         <mxCell id="D8cfFL2hckd1D-f0yYhA-18" value="On-Demand Self Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="482.5" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D8cfFL2hckd1D-f0yYhA-19" value="ZKAS Admin Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="490" width="130" height="30" as="geometry" />
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-19" value="ZKAS Admin DevOps Box/Tools/Monitor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="885" y="490" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D8cfFL2hckd1D-f0yYhA-20" value="On-Demand ZUORA Kafka As Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="680" y="720" width="230" height="30" as="geometry" />
