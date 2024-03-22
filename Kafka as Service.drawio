@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T18:19:28.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xwS6Q4SiJXgrEREGTTFq" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T18:19:52.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7isly4qPYg88U58_INnq" version="24.0.7" type="github">
   <diagram name="Page-1" id="rygwS8VyxAOfs3rbuVMZ">
     <mxGraphModel dx="2641" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
         <mxCell id="D8cfFL2hckd1D-f0yYhA-23" value="Real-time Capacity&lt;br&gt;Analyzer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="873" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D8cfFL2hckd1D-f0yYhA-24" value="Real-time Fraud&lt;br&gt;Detector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D8cfFL2hckd1D-f0yYhA-24" value="Realtime Fraud&lt;br&gt;Detector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="873" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D8cfFL2hckd1D-f0yYhA-25" value="Real-time Observability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
