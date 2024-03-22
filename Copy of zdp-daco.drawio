@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T23:07:00.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="n3VGz3gyDV7Bl4YI4VDT" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T23:12:27.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5eMsZ1hKi9UZ0REzmpSK" version="24.0.7" type="github">
   <diagram name="Page-1" id="sh8ykiF0knSkxBJXVvDX">
     <mxGraphModel dx="3491" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -852,11 +852,33 @@
         <mxCell id="53IJq4ryx-9KpO-W778W-46" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
           <mxGeometry x="2580" y="1193.5" width="32.4" height="31.5" as="geometry" />
         </mxCell>
+        <mxCell id="53IJq4ryx-9KpO-W778W-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="53IJq4ryx-9KpO-W778W-47" target="53IJq4ryx-9KpO-W778W-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="53IJq4ryx-9KpO-W778W-47" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_table;" vertex="1" parent="1">
           <mxGeometry x="563" y="1050" width="49" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="53IJq4ryx-9KpO-W778W-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="53IJq4ryx-9KpO-W778W-48" target="53IJq4ryx-9KpO-W778W-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="53IJq4ryx-9KpO-W778W-48" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_table;" vertex="1" parent="1">
           <mxGeometry x="2386" y="1050" width="49" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="53IJq4ryx-9KpO-W778W-49" value="Tenant Offset Topic" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1210" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="53IJq4ryx-9KpO-W778W-50" value="+ Tenant ID&lt;br&gt;+ Object Type&lt;br&gt;+ Operation&lt;br&gt;+ Sequence Number&lt;div&gt;+ Event Time&lt;/div&gt;&lt;div&gt;+ Data Pipeline Component&lt;/div&gt;&lt;div&gt;+ ...&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="53IJq4ryx-9KpO-W778W-49">
+          <mxGeometry y="50" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="53IJq4ryx-9KpO-W778W-52" value="Tenant Offset Topic" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1210" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="53IJq4ryx-9KpO-W778W-53" value="+ Tenant ID&lt;br&gt;+ Object Type&lt;br&gt;+ Operation&lt;br&gt;+ Sequence Number&lt;div&gt;+ Event Time&lt;/div&gt;&lt;div&gt;+ Data Pipeline Component&lt;/div&gt;&lt;div&gt;+ ...&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="53IJq4ryx-9KpO-W778W-52">
+          <mxGeometry y="50" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
