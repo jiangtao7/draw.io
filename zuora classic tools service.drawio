@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T22:37:17.340Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5u8fFiS1ir7xKNc5lQR4" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T22:38:54.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="b6Aj9XRwQ4qyN5dkPRpn" version="24.2.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3223" dy="1552" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -452,8 +452,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S8UhUFy1_JVliyq-m8At-1551" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Zuora Classic Platforms vs Resource Responsibility Boundary Mappings (Project-Based Virtual Team, Not Org Team)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="1270" height="40" as="geometry" />
+        <mxCell id="S8UhUFy1_JVliyq-m8At-1551" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Zuora Classic Platforms vs Resource Responsibility Boundary Mappings (Project-Based Virtual Team, Not Org-Based Team)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="74" y="33" width="1339" height="41" as="geometry" />
         </mxCell>
         <mxCell id="S8UhUFy1_JVliyq-m8At-1528" value="&lt;span style=&quot;color: rgb(29, 28, 29); font-family: Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 22px; font-variant-ligatures: common-ligatures; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;? Maybe&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="523.5" y="1050" width="120" height="60" as="geometry" />
