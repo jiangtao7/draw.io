@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T16:20:48.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pJY0hKJS-yJF0z92yOHq" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T16:24:01.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ifr5ExqYxnrhfCai266w" version="24.4.6" type="github">
   <diagram name="Page-1" id="osjaCULI0XQIl8TjNg4v">
     <mxGraphModel dx="2266" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="LPbAuuqpUGxxxOB4grG0-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;" vertex="1" parent="1">
           <mxGeometry x="290" y="100.80000000000003" width="55" height="57.2" as="geometry" />
         </mxCell>
-        <mxCell id="LPbAuuqpUGxxxOB4grG0-2" value="common cluster&lt;br&gt;(Shared by Environment)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LPbAuuqpUGxxxOB4grG0-2" value="Common cluster shared over env" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LPbAuuqpUGxxxOB4grG0-3" value="common cluster&amp;nbsp;&lt;div&gt;tasks&lt;br&gt;(Pay Team Related)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LPbAuuqpUGxxxOB4grG0-3" value="Pay team ecs tasks recovery&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LPbAuuqpUGxxxOB4grG0-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LPbAuuqpUGxxxOB4grG0-4" target="LPbAuuqpUGxxxOB4grG0-2">
@@ -40,13 +40,13 @@
         <mxCell id="LPbAuuqpUGxxxOB4grG0-8" value="Modules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LPbAuuqpUGxxxOB4grG0-17" value="We can copy the shared common cluster tf states from others, e.g vpc, cluster ...." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="LPbAuuqpUGxxxOB4grG0-17" value="Copy the shared common cluster tf states from the same env" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="625" y="50" width="170" height="128.6" as="geometry" />
         </mxCell>
         <mxCell id="LPbAuuqpUGxxxOB4grG0-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.947;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LPbAuuqpUGxxxOB4grG0-2" target="LPbAuuqpUGxxxOB4grG0-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LPbAuuqpUGxxxOB4grG0-20" value="1. We can borrow from other deployments.&lt;div&gt;2. Need to update resources ID against specific Envs.&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="LPbAuuqpUGxxxOB4grG0-20" value="1. Copy tf state from other envs.&lt;div&gt;2. manually update resources based env.&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="655" y="320" width="165" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LPbAuuqpUGxxxOB4grG0-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=82.5;entryDy=110;entryPerimeter=0;" edge="1" parent="1" source="LPbAuuqpUGxxxOB4grG0-3" target="LPbAuuqpUGxxxOB4grG0-20">
@@ -67,14 +67,14 @@
         <mxCell id="LPbAuuqpUGxxxOB4grG0-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=92.5;entryDy=160;entryPerimeter=0;" edge="1" parent="1" source="LPbAuuqpUGxxxOB4grG0-23" target="LPbAuuqpUGxxxOB4grG0-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LPbAuuqpUGxxxOB4grG0-27" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="30" height="30" as="geometry" />
+        <mxCell id="LPbAuuqpUGxxxOB4grG0-27" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="225" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LPbAuuqpUGxxxOB4grG0-28" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="460" y="465" width="35" height="35" as="geometry" />
+        <mxCell id="LPbAuuqpUGxxxOB4grG0-28" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="480" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LPbAuuqpUGxxxOB4grG0-29" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="150" y="340" width="30" height="30" as="geometry" />
+        <mxCell id="LPbAuuqpUGxxxOB4grG0-29" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
