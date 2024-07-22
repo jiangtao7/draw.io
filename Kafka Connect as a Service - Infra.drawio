@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T23:38:08.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5YCNqlnULJjfjotEO6qw" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T23:40:01.201Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q4o6MiOXazXQQ5P3U-dg" version="24.7.3" type="github">
   <diagram name="Page-1" id="EP4QQ97qRVcQPSVcsZwG">
     <mxGraphModel dx="3116" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,6 +87,12 @@
         </mxCell>
         <mxCell id="u9Qty3YH7hLvffLcsdpy-6" value="Sink Connector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u9Qty3YH7hLvffLcsdpy-14" value="or" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="219" y="287" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u9Qty3YH7hLvffLcsdpy-15" value="or" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="285" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
